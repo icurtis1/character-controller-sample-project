@@ -104,14 +104,6 @@ The project uses Leva for a debug UI that allows you to adjust various parameter
   /models             # 3D models (character, environment)
 ```
 
-### Adding New Features
-
-To extend the project:
-
-1. **New Physics Objects**: Add to the scene graph within the Physics component
-2. **Custom Shaders**: Add in the shaders directory and use with ShaderMaterial
-3. **New Controls**: Extend the KeyboardControls map and add handling in the controller
-
 ## License
 
 This project is released under the MIT License. See the LICENSE file for details.
