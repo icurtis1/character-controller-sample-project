@@ -4,7 +4,7 @@ A 3D character controller built with React Three Fiber, Rapier physics, and adva
 
 [Live Demo](https://character-sample-project.netlify.app/)
 
-<img src="./public/demo.gif" alt="Demo" width="800" />
+<img src="./public/demo.gif" alt="Demo" width="600" />
 
 ## Features
 
